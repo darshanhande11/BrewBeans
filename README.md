@@ -1,4 +1,4 @@
-# brew_beans
+# BrewBeans
 
 BrewBeans is a simple flutter application with backend and database hosted on firebase. The application can be used by a group of people where each of them brews coffee for the whole lot. So, to remember the taste and preferences of each person (part of a larger group) can be really troublesome and not everyone can get their hot drink with the desired choices.
 
